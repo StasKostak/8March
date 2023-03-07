@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+body {
+  width: 100vh;
+  background-image: url(./assets/Day\ on\ 8\ March.gif);
+  background-size: cover;
+}
+
+.conteiner {
+  width: 394px;
+  height: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.conteiner .hello h3 {
+  font-family: "Lobster";
+  font-size: 28px;
+}
+.conteiner .article p {
+  font-family: "Lobster";
+  font-size: 18px;
+  text-align: center;
+  margin-top: 20px;
+}/*# sourceMappingURL=style.css.map */
