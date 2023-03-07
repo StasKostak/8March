@@ -2,7 +2,8 @@
 body {
     width: 100vh;
     background-image: url(./assets/Day\ on\ 8\ March.gif);
-    background-size: cover;
+    background-size: 100%;
+    
 }
 .conteiner {
     width: 394px;
@@ -24,5 +25,9 @@ body {
             text-align: center;
             margin-top: 20px;
         }
+    }
+    img {
+        width: 80%;
+        margin-top: 20px;
     }
 }
